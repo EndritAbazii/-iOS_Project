@@ -2,8 +2,8 @@
 //  LoginViewController.swift
 //  Project
 //
-//  Created by NAM HYUNWOO on 26/10/20.
-//  Copyright © 2020 NAM HYUNWOO. All rights reserved.
+//  Created by Leotrim Halimi on 26/02/24.
+//  Copyright © 2024 Leotrim Halimi. All rights reserved.
 //
 
 import UIKit
