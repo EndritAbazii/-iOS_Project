@@ -16,9 +16,9 @@ Ky projekt do të zhvillojë një Sistem Menaxhimi të takimeve për iOS duke p�
 
 ## - Siguroni ndërfaqen kryesore për të dhënat e takimit
 - Add Meeting record (shto takimin, fut emrin e përdoruesit, vendndodhjen, datën))
- 	- View Meeting record (Table View)
- 	- Ability to check the current date/time to flag the exams (Përfshirë takimet e tanishme dhe takimet e kaluara)
- 	- Mutiple delete function  (në gjendje të fshijë shumë provime të zgjedhura menjëherë)
+- View Meeting record (Table View)
+- Ability to check the current date/time to flag the exams (Përfshirë takimet e tanishme dhe takimet e kaluara)
+- Mutiple delete function  (në gjendje të fshijë shumë provime të zgjedhura menjëherë)
  
 ## - Delete students (Të gjithë)
 - Delete All Core Database
